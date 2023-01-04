@@ -1,2 +1,2 @@
 # Crypto-Exchange
-Crypto currency exchange app made with Spring Boot
+Crypto currency exchange microservice app made with Spring Boot
